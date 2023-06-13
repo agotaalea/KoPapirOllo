@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Leamea\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Leamea\\.nuget\\packages"
+    ]
+  }
+}

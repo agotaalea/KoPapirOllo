@@ -1,0 +1,16 @@
+C:\Users\Leamea\source\repos\KoPapirOllo\KoPapirOllo\obj\Debug\net5.0\KoPapirOllo.csproj.AssemblyReference.cache
+C:\Users\Leamea\source\repos\KoPapirOllo\KoPapirOllo\obj\Debug\net5.0\KoPapirOllo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leamea\source\repos\KoPapirOllo\KoPapirOllo\obj\Debug\net5.0\KoPapirOllo.AssemblyInfoInputs.cache
+C:\Users\Leamea\source\repos\KoPapirOllo\KoPapirOllo\obj\Debug\net5.0\KoPapirOllo.AssemblyInfo.cs
+C:\Users\Leamea\source\repos\KoPapirOllo\KoPapirOllo\obj\Debug\net5.0\KoPapirOllo.csproj.CoreCompileInputs.cache
+C:\Users\Leamea\source\repos\KoPapirOllo\KoPapirOllo\bin\Debug\net5.0\KoPapirOllo.exe
+C:\Users\Leamea\source\repos\KoPapirOllo\KoPapirOllo\bin\Debug\net5.0\KoPapirOllo.deps.json
+C:\Users\Leamea\source\repos\KoPapirOllo\KoPapirOllo\bin\Debug\net5.0\KoPapirOllo.runtimeconfig.json
+C:\Users\Leamea\source\repos\KoPapirOllo\KoPapirOllo\bin\Debug\net5.0\KoPapirOllo.runtimeconfig.dev.json
+C:\Users\Leamea\source\repos\KoPapirOllo\KoPapirOllo\bin\Debug\net5.0\KoPapirOllo.dll
+C:\Users\Leamea\source\repos\KoPapirOllo\KoPapirOllo\bin\Debug\net5.0\ref\KoPapirOllo.dll
+C:\Users\Leamea\source\repos\KoPapirOllo\KoPapirOllo\bin\Debug\net5.0\KoPapirOllo.pdb
+C:\Users\Leamea\source\repos\KoPapirOllo\KoPapirOllo\obj\Debug\net5.0\KoPapirOllo.dll
+C:\Users\Leamea\source\repos\KoPapirOllo\KoPapirOllo\obj\Debug\net5.0\ref\KoPapirOllo.dll
+C:\Users\Leamea\source\repos\KoPapirOllo\KoPapirOllo\obj\Debug\net5.0\KoPapirOllo.pdb
+C:\Users\Leamea\source\repos\KoPapirOllo\KoPapirOllo\obj\Debug\net5.0\KoPapirOllo.genruntimeconfig.cache

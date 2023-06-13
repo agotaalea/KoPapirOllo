@@ -1,0 +1,74 @@
+##########################
+Kategoria: Zoldfuluek
+Csoport: 1
+##########################
+Fordulo1: [TE1 - TE2, TE3 - TCS3, TCS4 - TCS5, PV2 - PV3]
+Fordulo2: [TE2 - TCS3, TCS5 - PV3]
+Fordulo3: [TE2 - TCS5]
+Nyertes: Teszt Csilla
+##########################
+Kategoria: Zoldfuluek
+Csoport: 2
+##########################
+Fordulo1: [KPA1 - KPA4, KPA5 - OO1, OO2 - OO3, OO4 - KJ1]
+Fordulo2: [KPA4 - KPA5, OO3 - OO4]
+Fordulo3: [KPA5 - OO3]
+Nyertes: Ollo Olga
+##########################
+Kategoria: Zoldfuluek
+Csoport: 3
+##########################
+Fordulo1: [KJ2 - MM3, MM4 - MM5, BF5 - SS1, KS1 - KS2]
+Fordulo2: [KJ2 - MM4, BF5 - KS1]
+Fordulo3: [MM4 - KS1]
+Nyertes: Mester Marcell
+##########################
+Kategoria: Boomerek
+Csoport: 1
+##########################
+Fordulo1: [TE4 - TE5, TCS2 - PV4, PV5 - KPA3, OO5 - KJ4]
+Fordulo2: [TE5 - PV4, KPA3 - KJ4]
+Fordulo3: [PV4 - KPA3]
+Nyertes: Papir Viktoria
+##########################
+Kategoria: Ven Tatak
+Csoport: 1
+##########################
+Fordulo1: [TCS1 - PV1, KPA2 - KJ3, MM1 - BF1, BF2 - BF3]
+Fordulo2: [PV1 - KJ3, BF1 - BF3]
+Fordulo3: [PV1 - BF3]
+Nyertes: Bena Ferenc
+
+
+Ennyi ember versenyzett 12 évesen: 2
+Ennyi ember versenyzett 13 évesen: 1
+Ennyi ember versenyzett 15 évesen: 1
+Ennyi ember versenyzett 16 évesen: 3
+Ennyi ember versenyzett 18 évesen: 1
+Ennyi ember versenyzett 19 évesen: 3
+Ennyi ember versenyzett 20 évesen: 1
+Ennyi ember versenyzett 21 évesen: 1
+Ennyi ember versenyzett 22 évesen: 2
+Ennyi ember versenyzett 23 évesen: 2
+Ennyi ember versenyzett 24 évesen: 2
+Ennyi ember versenyzett 25 évesen: 2
+Ennyi ember versenyzett 27 évesen: 1
+Ennyi ember versenyzett 28 évesen: 2
+Ennyi ember versenyzett 30 évesen: 1
+Ennyi ember versenyzett 32 évesen: 1
+Ennyi ember versenyzett 35 évesen: 1
+Ennyi ember versenyzett 42 évesen: 1
+Ennyi ember versenyzett 44 évesen: 1
+Ennyi ember versenyzett 45 évesen: 1
+Ennyi ember versenyzett 48 évesen: 1
+Ennyi ember versenyzett 49 évesen: 1
+Ennyi ember versenyzett 51 évesen: 1
+Ennyi ember versenyzett 54 évesen: 1
+Ennyi ember versenyzett 55 évesen: 1
+Ennyi ember versenyzett 58 évesen: 1
+Ennyi ember versenyzett 66 évesen: 1
+Ennyi ember versenyzett 67 évesen: 1
+Ennyi ember versenyzett 77 évesen: 1
+Ennyi ember versenyzett 80 évesen: 1
+Nem kerültek be egy csoportba sem: 10
+Átlagos mutatás: 1,9444444444444444

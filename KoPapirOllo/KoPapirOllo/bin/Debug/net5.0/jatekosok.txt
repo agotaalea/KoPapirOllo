@@ -1,0 +1,51 @@
+50
+Teszt Elek|19|TE1
+Teszt Elek|22|TE2
+Teszt Elek|23|TE3
+Teszt Elek|30|TE4
+Teszt Elek|35|TE5
+Teszt Csilla|67|TCS1
+Teszt Csilla|45|TCS2
+Teszt Csilla|16|TCS3
+Teszt Csilla|18|TCS4
+Teszt Csilla|27|TCS5
+Papir Viktoria|51|PV1
+Papir Viktoria|12|PV2
+Papir Viktoria|19|PV3
+Papir Viktoria|32|PV4
+Papir Viktoria|44|PV5
+Ko Papir Attila|20|KPA1
+Ko Papir Attila|80|KPA2
+Ko Papir Attila|48|KPA3
+Ko Papir Attila|25|KPA4
+Ko Papir Attila|12|KPA5
+Ollo Olga|15|OO1
+Ollo Olga|16|OO2
+Ollo Olga|24|OO3
+Ollo Olga|23|OO4
+Ollo Olga|42|OO5
+Ko Janos|19|KJ1
+Ko Janos|25|KJ2
+Ko Janos|77|KJ3
+Ko Janos|49|KJ4
+Ko Janos|33|KJ5
+Mester Marcell|55|MM1
+Mester Marcell|37|MM2
+Mester Marcell|21|MM3
+Mester Marcell|22|MM4
+Mester Marcell|16|MM5
+Bena Ferenc|66|BF1
+Bena Ferenc|58|BF2
+Bena Ferenc|54|BF3
+Bena Ferenc|35|BF4
+Bena Ferenc|28|BF5
+Shiba Shiba|24|SS1
+Shiba Shiba|38|SS2
+Shiba Shiba|47|SS3
+Shiba Shiba|55|SS4
+Shiba Shiba|59|SS5
+Kicsi Steven|13|KS1
+Kicsi Steven|28|KS2
+Kicsi Steven|32|KS3
+Kicsi Steven|46|KS4
+Kicsi Steven|70|KS5
